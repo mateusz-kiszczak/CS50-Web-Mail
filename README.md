@@ -2,7 +2,8 @@
 
 My implementation of the project from the CS50 Web's  Project 3 - Mail.
 
-CS50 WEB - Week 5 - JavaScript
+CS50 WEB - Week 5 - JavaScript /
+CS50 WEB - Week 6 - User Interface
 
 ## Video Demo: [Mail Video Demo](https://youtu.be/qeCQJXETSG8)
 
